@@ -143,6 +143,14 @@ span.number {
 	padding: 1em;
 	padding-top: 15vh;
 	border: 1px solid black;
+	overflow-y: scroll;
+}
+
+.invite img {
+
+		min-width: 600px;
+		
+
 }
 
 #close {
