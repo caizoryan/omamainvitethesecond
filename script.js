@@ -5,7 +5,7 @@ let not = document.querySelector('#not')
 let glyph = ""
 // add something for glyphs
 
-let url = "https://caizoryan--ed10220ac27611f0b74142dde27851f2.web.val.run"
+let url = "https://caizoryan--ed10220ac27611f0b74142dde27851f2.web.val.run/"
 
 let images
 fetch("https://api.are.na/v2/channels/amazing-vectors?per=100")
